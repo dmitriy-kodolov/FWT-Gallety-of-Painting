@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FWT-Gallety-of-Painting/static/css/main.ce482abb.chunk.css",
+    "main.js": "/FWT-Gallety-of-Painting/static/js/main.ac73a3e3.chunk.js",
+    "main.js.map": "/FWT-Gallety-of-Painting/static/js/main.ac73a3e3.chunk.js.map",
+    "runtime-main.js": "/FWT-Gallety-of-Painting/static/js/runtime-main.a87a041d.js",
+    "runtime-main.js.map": "/FWT-Gallety-of-Painting/static/js/runtime-main.a87a041d.js.map",
+    "static/js/2.dbaeb102.chunk.js": "/FWT-Gallety-of-Painting/static/js/2.dbaeb102.chunk.js",
+    "static/js/2.dbaeb102.chunk.js.map": "/FWT-Gallety-of-Painting/static/js/2.dbaeb102.chunk.js.map",
+    "index.html": "/FWT-Gallety-of-Painting/index.html",
+    "static/css/main.ce482abb.chunk.css.map": "/FWT-Gallety-of-Painting/static/css/main.ce482abb.chunk.css.map",
+    "static/js/2.dbaeb102.chunk.js.LICENSE.txt": "/FWT-Gallety-of-Painting/static/js/2.dbaeb102.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a87a041d.js",
+    "static/js/2.dbaeb102.chunk.js",
+    "static/css/main.ce482abb.chunk.css",
+    "static/js/main.ac73a3e3.chunk.js"
+  ]
+}
