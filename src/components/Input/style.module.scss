@@ -1,0 +1,27 @@
+.input__container{
+    width: 263px;
+    height: 45px;
+    padding: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+    border-radius: 8px;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    outline:none;
+    background:inherit;
+    @media (max-width: 1366px) {
+        width: 218px
+    }
+    @media (max-width: 1024px) {
+        width: 158px;
+    }
+    @media (max-width: 768px) {
+        width: 278px;
+    }
+    &__theme{
+        background: #0C0C0C;
+        border: 1px solid #FFFFFF;
+        }
+        
+}

@@ -1,0 +1,17 @@
+.app{
+    padding: 0 123px 97px 123px;
+    @media (max-width: 1366px) {
+      padding: 0 42px 62px 42px; 
+    }  
+    @media (max-width: 1024px) {
+      padding: 0 34px 54px 34px;
+    }
+    @media (max-width: 768px) {
+      padding: 0 20px 34px 20px;
+    }
+}
+
+.theme {
+    color: #FFFF;
+    background: #000000;
+}
